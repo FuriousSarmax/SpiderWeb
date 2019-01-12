@@ -3,7 +3,7 @@ head{
 }
 
 *{
-
+{margin: 0; padding: 0 }
 }
 
 body{
@@ -25,7 +25,7 @@ body{
 }
 .icon{
 	height: 100%;
-
+	cursor: pointer;
 	padding: 0px;
 	background-size: 100%;
 	background-repeat: no-repeat;
@@ -76,7 +76,7 @@ body{
  	font-size: 14px;
 	background-color: #fff;
 	background-image: url(img/background4.png);
- 	height: 500px;
+ 	height: 1000px;
  	box-shadow: 0 0 15px 0 rgba(0,0,0,1);
 
 
@@ -94,13 +94,13 @@ body{
 
 .footercopyright{
 	font-family: 'Ubuntu', sans-serif;
-	font-weight: 300;
+	font-weight: 500;
 	font-size: 15px;
 	color: #fff;
 	text-align: right;
-	top: 100px;
+	top: 110px;
 	position: relative;
-
+	
 	
 	
 
